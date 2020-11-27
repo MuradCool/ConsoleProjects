@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{34660AF7-AF0E-461E-B724-9400DF78E351}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstProject/Infrastructure/Enums/OrderType.cs">
+    <Files>
+      <File FileName="MyFirstProject/Program.cs" Line="9" Column="47" />
+      <File FileName="MyFirstProject/Infrastructure/Enums/OrderType.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProject" expanded="True" selected="True">
+            <Node name="MyFirstProject" expanded="True">
+              <Node name="Infrastructure" expanded="True">
+                <Node name="Enums" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MyFirstProject FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

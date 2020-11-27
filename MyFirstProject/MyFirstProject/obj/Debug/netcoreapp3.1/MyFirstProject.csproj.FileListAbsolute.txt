@@ -1,0 +1,12 @@
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.csprojAssemblyReference.cache
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.AssemblyInfoInputs.cache
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.AssemblyInfo.cs
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.deps.json
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.runtimeconfig.json
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.runtimeconfig.dev.json
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.dll
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/bin/Debug/netcoreapp3.1/MyFirstProject.pdb
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.dll
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.pdb
+/Users/muradcool/Projects/MyFirstProject/MyFirstProject/obj/Debug/netcoreapp3.1/MyFirstProject.genruntimeconfig.cache
